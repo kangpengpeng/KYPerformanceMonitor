@@ -1,0 +1,6 @@
+framework module Pods_KYPerformanceMonitor_Example {
+  umbrella header "Pods-KYPerformanceMonitor_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

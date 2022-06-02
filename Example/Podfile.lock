@@ -1,0 +1,16 @@
+PODS:
+  - KYPerformanceMonitor (0.1.0)
+
+DEPENDENCIES:
+  - KYPerformanceMonitor (from `../`)
+
+EXTERNAL SOURCES:
+  KYPerformanceMonitor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  KYPerformanceMonitor: b269886fddcf79f0e9e091ce4a69bc4a6d00e921
+
+PODFILE CHECKSUM: a0833f842f13425631f7f57b21ba83779e733454
+
+COCOAPODS: 1.11.0
